@@ -56,7 +56,7 @@ john --show Hash.txt
 
 #### 📸 Proof of Completion (Target 1)
 ![john1](/screenshots/Screenshot_20261117_202617.png)
-![john2](/screenshots/Screenshot_20261117_202511.jpg)
+![john2](/screenshots/Screenshot_20261117_202511.png)
 
 ---
 
@@ -71,8 +71,8 @@ john --show Hash2.txt
 * **Flag 2 Captured:** `nw{networkwalks_persistence_jtr_270521}`
 
 #### 📸 Proof of Completion (Target 2)
-![screenshots](Screenshot_20261117_202759.png)
-![screenshots](Screenshot_20261117_202830.jpg)
+![screenshots](/screenshots/Screenshot_20261117_202759.png)
+![screenshots](/screenshots/Screenshot_20261117_202830.png)
 
 ---
 
@@ -85,7 +85,7 @@ john --wordlist=/usr/share/wordlists/rockyou.txt Hash3.txt
 * **Flag 3 Captured:** `nw{networkwalks_flag_260821_1}`
 
 #### 📸 Proof of Completion (Target 3)
-![screenshots](Screenshot_20261117_203048.png)
+![screenshots](/screenshots/Screenshot_20261117_203048.png)
 
 ---
 
