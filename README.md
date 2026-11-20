@@ -55,8 +55,8 @@ john --show Hash.txt
 * **Flag 1 Captured:** `nw{cybersecurity_flag_captured_2608}`
 
 #### 📸 Proof of Completion (Target 1)
-![screenshots](Screenshot_20261117_202617.png)
-![screenshots](Screenshot_20261117_202511.jpg)
+![john1](/screenshots/Screenshot_20261117_202617.png)
+![john2](/screenshots/Screenshot_20261117_202511.jpg)
 
 ---
 
